@@ -1,0 +1,2 @@
+# import text_comparison.compare_text
+import image_comparison.compare_image
